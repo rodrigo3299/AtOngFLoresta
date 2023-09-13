@@ -1,0 +1,26 @@
+
+{
+ "floresta": [
+ {
+ "id": 1,
+ "descricao": "Floresta Tropical",
+ "estoque": 10,
+ "valor": 10,
+ "imagem" : "img/tropical.jpg"
+ },
+ {
+ "id": 2,
+ "descricao": "Florestas temperadas",
+ "estoque": 10,
+ "valor": 15,
+ "imagem" : "img/temperadas.jpg"
+ },
+ {
+ "id": 3,
+ "descricao": "Florestas boreais",
+ "estoque": 10,
+ "valor": 5.25,
+ "imagem" : "img/bereais.jpg"
+ }
+ ]
+}

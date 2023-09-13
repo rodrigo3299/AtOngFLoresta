@@ -1,0 +1,108 @@
+.container{
+
+    background-color: rgb(14, 119, 58);
+        
+    width : 100% ;
+        
+        }
+        
+        
+        
+        
+    .topo h1{
+        
+    display: flex;
+        
+    color: white;
+        
+     justify-content: center;
+        
+        }
+        
+        
+        
+        
+    .topo p{
+        
+    display: flex;
+        
+     color: white;
+        
+     justify-content: center;
+        
+        }
+        
+        
+        
+        
+    .meio{
+        
+    display: flex;
+     justify-content: center;
+        
+     margin-top: 50px;
+        
+         width : 100vw;
+        
+        
+        
+        
+        }
+        
+        
+        
+    .active{
+        background-color: rgb(14, 119, 58);
+    }
+        
+    .carousel-caption d-none d-md-block{
+         background-color: red;
+    }    
+        
+          
+    .mb-3{
+        width: 30%;
+    }    
+    .col-md-4{
+        width: 100%;
+    }
+    .col-md-8{
+        width: 100%;
+    }
+
+   .img src{
+    width: 50px;
+   }
+
+   .card{
+    width: 90%;
+   }
+   .card-img-top{
+    width: 70%;
+   }
+   .card1{
+    width: 40%;
+   }
+   .card2{
+    width: 70%;
+   }
+   .card-img{
+    width: 50%;
+   }
+   .form-control{
+    width: 50%;
+   }
+   .form-select{
+    width: 50%;
+   }
+   .card-img-top1{
+    width: 100%;
+   }
+   .card-img-top2{
+    width: 139%;
+   }
+   .card-img-top3{
+    height: 100%;
+   }
+   
+
